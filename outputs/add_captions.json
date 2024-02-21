@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "9bfa1c76-2001-4e20-894a-fad924c13c71",
+  "content-length": "156",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a screenshot of a video game",
+    "confidence": 0.8768694400787354
+  },
+  "metadata": {
+    "width": 1366,
+    "height": 705
+  }
+}
