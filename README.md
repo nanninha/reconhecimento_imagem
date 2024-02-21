@@ -7,7 +7,7 @@
 
 Gerar JSON de três imagens especificas, utilizando o Vision Studio da Azure
 
-## w_REC_MATMED
+## Extract text from images
 
 Para as sessões do REC foram consideradas as tabelas que ainda não tinham sido criadas anteriormente ou que foram criadas desconsiderando campos importantes para o projeto. 
 
