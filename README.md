@@ -7,19 +7,15 @@
 
 Gerar JSON de três imagens especificas, utilizando o Vision Studio da Azure
 
-## Extract text from images
+## INPUTS
 
-Para as sessões do REC foram consideradas as tabelas que ainda não tinham sido criadas anteriormente ou que foram criadas desconsiderando campos importantes para o projeto. 
+Consiste nas imagens utilizadas para criação dos arquivos 
 
-![Static Badge](https://img.shields.io/badge/TABELAS%20REC-8A2BE2)
+![Static Badge](https://img.shields.io/badge/IMAGENS-8A2BE2)
 
 - R_TB_EORG_PARAMETROS
 - R_TB_ESTOQUE_POSICAO
 - R_TB_PRODUTOS_SERVICOS_COMPLETO
-- R_TB_MATERIAIS_PARAMETROS
-- R_TB_UNIDADES_COMPRAS
-- R_TB_ESTOQUE_TABELA_RESUUPRIMENTO
-- R_TB_RESSUPRIMENTO_CRONOGRAMA
 
 [scripts REC_MATMED](https://gitlab.pbh.gov.br/projetos-astis/data-mart/dm-matmed/-/tree/main/script_tabelas/REC?ref_type=heads)
 
