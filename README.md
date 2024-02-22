@@ -23,7 +23,9 @@ Consiste nas imagens utilizadas para criação dos arquivos
 
 ![Static Badge](https://img.shields.io/badge/PRINT%20PROCESSO-8A2BE2)
 
-
+<img src="/img/captions.png">
+<img src="/img/face.png">
+<img src="/img/text.png">
 
 [prints](https://gitlab.pbh.gov.br/projetos-astis/data-mart/dm-matmed/-/tree/main/img?ref_type=heads)
 
