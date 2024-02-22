@@ -21,13 +21,11 @@ Consiste nas imagens utilizadas para criação dos arquivos
 
 ## PRINTS DOS PROCESSOS
 
-![Static Badge](https://img.shields.io/badge/TABELAS%20STG-8A2BE2)
+![Static Badge](https://img.shields.io/badge/PRINT%PROCESSO-8A2BE2)
 
--   S_COMPRAS
--   S_EORG_MATMED
--   S_RESSUPRIMENTO_MATMED
 
-[scripts STG_MATMED](https://gitlab.pbh.gov.br/projetos-astis/data-mart/dm-matmed/-/tree/main/script_tabelas/STG?ref_type=heads)
+
+[prints](https://gitlab.pbh.gov.br/projetos-astis/data-mart/dm-matmed/-/tree/main/img?ref_type=heads)
 
 ## OUTPUTS
 
