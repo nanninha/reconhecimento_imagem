@@ -17,9 +17,9 @@ Consiste nas imagens utilizadas para criação dos arquivos
 - TELA_ROBLOX.PNG
 - ACESSO_VITALICIO.PNG
 
-[tabelas_inputs](https://github.com/nanninha/reconhecimento_imagem/tree/main/inputs?ref_type=heads)
+[imagens_inputs](https://github.com/nanninha/reconhecimento_imagem/tree/main/inputs?ref_type=heads)
 
-## w_STG_MATMED
+## PRINTS DOS PROCESSOS
 
 ![Static Badge](https://img.shields.io/badge/TABELAS%20STG-8A2BE2)
 
@@ -29,7 +29,15 @@ Consiste nas imagens utilizadas para criação dos arquivos
 
 [scripts STG_MATMED](https://gitlab.pbh.gov.br/projetos-astis/data-mart/dm-matmed/-/tree/main/script_tabelas/STG?ref_type=heads)
 
-## w_DDM_MATMED
+## OUTPUTS
 
-![Static Badge](https://img.shields.io/badge/TABELAS%20DDM-8A2BE2)
+Consiste nos arquivos JSON gerados apartir das fotos e opções selecionadas. Os nomes dos arquivos relacionam as tecnicas utilizadas em cada imagem inicial.
+
+![Static Badge](https://img.shields.io/badge/JSON-8A2BE2)
+
+- ADD_CAPTIONS.JSON
+- EXTRACT_TEXT.JSON
+- FACE_DETECT.JSON
+
+[imagens_inputs](https://github.com/nanninha/reconhecimento_imagem/tree/main/outputs?ref_type=heads
 
