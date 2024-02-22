@@ -13,11 +13,11 @@ Consiste nas imagens utilizadas para criação dos arquivos
 
 ![Static Badge](https://img.shields.io/badge/IMAGENS-8A2BE2)
 
-- R_TB_EORG_PARAMETROS
-- R_TB_ESTOQUE_POSICAO
-- R_TB_PRODUTOS_SERVICOS_COMPLETO
+- FACE_INICIAL.JFIF
+- TELA_ROBLOX.PNG
+- ACESSO_VITALICIO.PNG
 
-[scripts REC_MATMED](https://gitlab.pbh.gov.br/projetos-astis/data-mart/dm-matmed/-/tree/main/script_tabelas/REC?ref_type=heads)
+[tabelas_inputs]([https://gitlab.pbh.gov.br/projetos-astis/data-mart/dm-matmed/-/tree/main/script_tabelas/REC?ref_type=heads](https://github.com/nanninha/reconhecimento_imagem/edit/main/inputs))
 
 ## w_STG_MATMED
 
