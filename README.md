@@ -21,7 +21,7 @@ Consiste nas imagens utilizadas para criação dos arquivos
 
 ## PRINTS DOS PROCESSOS
 
-![Static Badge](https://img.shields.io/badge/PRINT%PROCESSO-8A2BE2)
+![Static Badge](https://img.shields.io/badge/-PRINT%PROCESSO-blue)
 
 
 
