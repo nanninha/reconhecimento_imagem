@@ -17,7 +17,7 @@ Consiste nas imagens utilizadas para criação dos arquivos
 - TELA_ROBLOX.PNG
 - ACESSO_VITALICIO.PNG
 
-[tabelas_inputs]([(https://github.com/nanninha/reconhecimento_imagem/tree/main/inputs))
+[tabelas_inputs](https://github.com/nanninha/reconhecimento_imagem/tree/main/inputs?ref_type=heads)
 
 ## w_STG_MATMED
 
