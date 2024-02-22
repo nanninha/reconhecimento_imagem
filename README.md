@@ -17,7 +17,7 @@ Consiste nas imagens utilizadas para criação dos arquivos
 - TELA_ROBLOX.PNG
 - ACESSO_VITALICIO.PNG
 
-[tabelas_inputs]([https://gitlab.pbh.gov.br/projetos-astis/data-mart/dm-matmed/-/tree/main/script_tabelas/REC?ref_type=heads](https://github.com/nanninha/reconhecimento_imagem/edit/main/inputs))
+[tabelas_inputs]([(https://github.com/nanninha/reconhecimento_imagem/tree/main/inputs))
 
 ## w_STG_MATMED
 
