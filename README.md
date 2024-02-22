@@ -31,7 +31,7 @@ Consiste nas imagens utilizadas para criação dos arquivos
 
 ## OUTPUTS
 
-Consiste nos arquivos JSON gerados apartir das fotos e opções selecionadas. Os nomes dos arquivos relacionam as tecnicas utilizadas em cada imagem inicial.
+Consiste nos arquivos JSON's gerados apartir das fotos e opções selecionadas. Os nomes dos arquivos relacionam as tecnicas utilizadas em cada imagem inicial.
 
 ![Static Badge](https://img.shields.io/badge/JSON-8A2BE2)
 
@@ -39,5 +39,5 @@ Consiste nos arquivos JSON gerados apartir das fotos e opções selecionadas. Os
 - EXTRACT_TEXT.JSON
 - FACE_DETECT.JSON
 
-[imagens_inputs](https://github.com/nanninha/reconhecimento_imagem/tree/main/outputs?ref_type=heads
+[json_outputs](https://github.com/nanninha/reconhecimento_imagem/tree/main/outputs?ref_type=heads)
 
